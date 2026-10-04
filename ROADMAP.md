@@ -7,7 +7,7 @@ issues and pull requests attached to it are the plan, this file is the readable 
 theme, so a version is out before the branch has drifted and every fix reaches phones within a
 fortnight. Whatever is not merged and tested on gym-test by the Friday before rolls into the next
 block, the date does not move. Version numbers follow the release rule, not the size of the change:
-the next release is the last published one plus one patch (1.3.7 → 1.3.8), and a minor bump is
+the next release is the last published one plus one patch (1.3.7 → 1.3.8), and minor bump is
 reserved for something that breaks compatibility — that is v1.4.0, the database.
 
 - Milestones: https://github.com/DuarteSantos8/openGym/milestones — every open issue sits in exactly one
